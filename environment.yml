@@ -1,0 +1,14 @@
+dependencies:
+  - python=3
+  - pip:
+    - spacy
+    - pandas
+    - spacy
+    - ipykernel
+    - scipy
+    - scikit-learn
+    - tensorflow
+    - matplotlib
+    - seaborn
+    - pandas
+    - thinc
