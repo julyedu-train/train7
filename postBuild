@@ -1,0 +1,4 @@
+python -m spacy download en
+python -m spacy download en_core_web_lg
+python -m pip install jupyter_contrib_nbextensions
+jupyter contrib nbextension install --user --skip-running-check
