@@ -4,7 +4,7 @@
 #### mybinder.org容器服务使用有时间限制，请随时注意保存您的练习和试卷
 #### 同学提交作业和试卷push时，请以自己姓名全拼新建分支，并仅commit变更的文件，请勿覆盖master分支
 
-<hr>
+
 ## 从mybinder.org上新建、切换分支 ，并回推github，实现试卷提交
 ### 打开binder jupyter notebook上的terminal
 ### 配置
