@@ -25,6 +25,7 @@ $git config --global user.name "jack"
 ```$git push --set-upstream origin jack```
 
 > 返回信息
+```
 > Username for 'https://github.com': julyedu-train
 > Password for 'https://julyedu-train@github.com':
 > Total 0 (delta 0), reused 0 (delta 0)
@@ -35,7 +36,7 @@ $git config --global user.name "jack"
 > To https://github.com/julyedu-train/train7
 > * [new branch]      jack -> jack
 > Branch ' jack' set up to track remote branch ' jack' from 'origin'.
-
+```
 - 先add变更的文件，注意不要 add . ,再commit,最后push
 ```
 $git add Python-1.ipynb
