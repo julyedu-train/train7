@@ -8,8 +8,10 @@
 ## 从mybinder.org上新建、切换分支 ，并回推github，实现试卷提交
 ### 打开binder jupyter notebook上的terminal
 ### 配置
-```$git config --global user.email "jack@hack.com"```
-```$git config --global user.name "jack"```
+```
+$git config --global user.email "jack@hack.com"
+$git config --global user.name "jack"
+```
 ### 新建本地分支
 ```$git branch jack```
 ### 查看分支
