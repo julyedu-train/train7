@@ -1,13 +1,14 @@
 ## 七月在线机器学习集训营第七期课件库
-#### 本仓库内课件仅供第七期学员参考使用，请勿外传，请勿修改master下的任何文件
-#### 本仓库内课件搭配mybinder.org共同使用，地址为：https://mybinder.org/v2/gh/julyedu-train/train7/master
-#### mybinder.org容器服务使用有时间限制，请随时注意保存您的练习和试卷
-#### 同学提交作业和试卷push时，请以自己姓名全拼新建分支，并仅commit变更的文件，请勿覆盖master分支
+### 使用注意事项:
+#### 1.本仓库内课件仅供第七期学员参考使用，请勿外传，请勿修改master下的任何文件
+#### 2.本仓库内课件搭配mybinder.org共同使用，地址为：https://mybinder.org/v2/gh/julyedu-train/train7/master
+#### 3.mybinder.org容器服务使用有时间限制，请随时注意保存您的练习和试卷
+#### 4.同学提交作业和试卷push时，请以自己姓名全拼新建分支，并仅commit变更的文件，请勿覆盖master分支
 
 
 ## 从mybinder.org上新建、切换分支 ，并回推github，实现试卷提交
-### 打开binder jupyter notebook上的terminal
-### 配置
+### 1.打开binder jupyter notebook上的terminal
+### 2.配置git基础信息
 ```
 $git config --global user.email "jack@hack.com"
 $git config --global user.name "jack"
