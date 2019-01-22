@@ -38,5 +38,5 @@ Branch ' jack' set up to track remote branch ' jack' from 'origin'.
 $git add Python-1.ipynb
 $git commit -m 'jack from binder.org'
 $git push
-$github上查看结果
 ```
+### 在github上查看结果
