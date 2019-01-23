@@ -1,1 +1,3 @@
 import numpy
+
+import telnetlib
