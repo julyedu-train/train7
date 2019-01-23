@@ -26,16 +26,16 @@ $git config --global user.name "jack"
 
 > 返回信息
 ```
-> Username for 'https://github.com': julyedu-train
-> Password for 'https://julyedu-train@github.com':
-> Total 0 (delta 0), reused 0 (delta 0)
-> remote:
-> remote: Create a pull request for ' jack' on GitHub by visiting:
-> remote:      https://github.com/julyedu-train/train7/pull/new/jack
-> remote:
-> To https://github.com/julyedu-train/train7
-> * [new branch]      jack -> jack
-> Branch ' jack' set up to track remote branch ' jack' from 'origin'.
+ Username for 'https://github.com': julyedu-train
+ Password for 'https://julyedu-train@github.com':
+ Total 0 (delta 0), reused 0 (delta 0)
+ remote:
+ remote: Create a pull request for ' jack' on GitHub by visiting:
+ remote:      https://github.com/julyedu-train/train7/pull/new/jack
+ remote:
+ To https://github.com/julyedu-train/train7
+ * [new branch]      jack -> jack
+ Branch ' jack' set up to track remote branch ' jack' from 'origin'.
 ```
 - 先add变更的文件，注意不要 add . ,再commit,最后push
 ```
@@ -43,4 +43,4 @@ $git add Python-1.ipynb
 $git commit -m 'jack from binder.org'
 $git push
 ```
-- 在github上查看结果
+- 在github上查看该文件的新分支
